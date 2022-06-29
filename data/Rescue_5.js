@@ -1,0 +1,1 @@
+var json_Rescue_5 = {"type":"FeatureCollection","name":"Rescue_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Rescue helicopter pad:  176 34 58E  39 37 37S"},"geometry":{"type":"Point","coordinates":[176.582818229678139,-39.626912796661848]}}]}

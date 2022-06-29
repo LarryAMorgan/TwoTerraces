@@ -1,0 +1,1 @@
+var json_House_9 = {"type":"FeatureCollection","name":"House_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Observe 10kph speed limit around house and sheds"},"geometry":{"type":"Point","coordinates":[176.582168114934376,-39.625618563929962]}}]}

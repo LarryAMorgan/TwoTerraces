@@ -1,0 +1,1 @@
+var json_Shed_8 = {"type":"FeatureCollection","name":"Shed_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Machinery shed and staff room"},"geometry":{"type":"Point","coordinates":[176.582450726841046,-39.626321468519478]}}]}
