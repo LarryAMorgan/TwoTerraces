@@ -1,2 +1,2 @@
 # TwoTerraces
-Two Terraces web map can be found here: https://larryamorgan.github.io/TwoTerraces/
+A web map of the Two Terraces Vineyard can be found here: https://larryamorgan.github.io/TwoTerraces/
